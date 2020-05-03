@@ -27,6 +27,9 @@
     <Compile Include="pygraph\graph.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="setup.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="tests\test_simple_graph.py">
       <SubType>Code</SubType>
     </Compile>
