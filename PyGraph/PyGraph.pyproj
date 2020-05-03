@@ -38,6 +38,7 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="README.md" />
     <Content Include="requirements.txt">
       <SubType>Code</SubType>
     </Content>
