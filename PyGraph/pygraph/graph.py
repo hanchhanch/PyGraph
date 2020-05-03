@@ -6,6 +6,8 @@ class Node:
     def __init__(self, id, nodeObj = None):
         self.id = id
         self.org_obj = nodeObj
+
+
 class Edge:
     """description of class"""
 

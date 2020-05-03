@@ -1,5 +1,5 @@
 import abc
-from PyGraph.Graph import *
+from pygraph.graph import Node, Graph
 
 class SimpleGraph(Graph):
     """description of class"""

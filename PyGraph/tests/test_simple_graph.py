@@ -1,7 +1,7 @@
 import unittest
 
-from Graph import *
-from PyGraph.SimpleGraph import SimpleGraph
+#from graph.py import Graph, Node
+from pygraph.simple_graph import SimpleGraph
 
 class Test_BasicGraphOperations(unittest.TestCase):
     def test_NodeAddition(self):
