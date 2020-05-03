@@ -3,8 +3,8 @@ import unittest
 from Graph import *
 from PyGraph.SimpleGraph import SimpleGraph
 
-class Test_test(unittest.TestCase):
-    def test_A(self):
+class Test_BasicGraphOperations(unittest.TestCase):
+    def test_NodeAddition(self):
         g= SimpleGraph()
         node = {'id':'id1','label':'label1'}
         g.add_node(node['id'],  node)
